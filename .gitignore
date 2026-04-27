@@ -21,6 +21,9 @@ out/
 *.log
 logs/
 
+# H2 persistent database files
+data/
+
 # OS
 .DS_Store
 Thumbs.db
